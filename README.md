@@ -55,6 +55,7 @@
     <a href="https://leetcode.com/realtemirov/"><img width="50%" src="https://leetcode.card.workers.dev/realtemirov?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
 </p>
 </div>
+
 ## 💻 Last month's activity
 <!-- https://github.com/realtemirov/github-readme-activity-graph -->
 <a href=""><img alt="realtemirov's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=realtemirov&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>  
