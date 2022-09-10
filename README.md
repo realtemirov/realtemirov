@@ -1,24 +1,40 @@
-# Hi there, I'm Jakhongir 👋
+<h1 align="center">Hi there, I'm Jakhongir Temirov 👋</h1>
 
-> .Net enthusiast!
-<br/><br/>
+<p align="center">
+ <a href="https://linkedin.com/in/realtemirov" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+ </a>
+  
+ <a href="https://twitter.com/realtemirov" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/twitter.png" />
+ </a>
 
-<p align="end">
-<a href="https://dev.to/realtemirov"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-gray?style=flat-square&logo=dev-to"></a>
-<a href="https://www.linkedin.com/in/realtemirov/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
-<a href="https://t.me/jahongir_temirov"><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
-<a href="https://instagram.com/jahongir_temirov"><img alt="Instagram" src="https://img.shields.io/badge/instagram-gray?style=flat-square&logo=instagram"></a>
- 
+ <a href="https://t.merealtemirov" target="_blank">
+  <img src="https://img.icons8.com/color/344/telegram-app--v1.png" />
+ </a>
+</p>
 
-<h1>🛠 Me Stack</h1>
+<p align="center"> 
+ <strong>
+  Professional skills
+  </strong>
+</p>
 
-- 🌐 &nbsp; .NET 6 | WebApi
-- 🛢 &nbsp; SqlServer | PostgreSql
-- ⚙️ &nbsp; Git 
-
-<br/>
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" alt="github" width="40" height="40" />
+</p>
 
 <h1>Me Stats</h1>
+<p align="center">
+  <a href="https://github.com/iCloudBMX?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/iCloudBMX"/></a>
+  <a href="https://github.com/iCloudBMX?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/iCloudBMX?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+  <a href="https://github.com/iCloudBMX">
+    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=iCloudBMX&style=for-the-badge"/></a>
+</p>
 
 <div align="center">
 <a href="">
