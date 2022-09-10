@@ -59,7 +59,14 @@
 ## 💻 Last month's activity
 <!-- https://github.com/realtemirov/github-readme-activity-graph -->
 <a href=""><img alt="realtemirov's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=realtemirov&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>  
-<div align="center">
-[![](https://komarev.com/ghpvc/?username=realtemirov&color=orange&label=Profile%20Views)](https://github.com/realtemirov/realtemirov)
-[![](https://img.shields.io/github/followers/realtemirov?label=GitHub%20Followers)](https://github.com/realtemirov)
-</div>
+
+<p align="center">
+    <a href="https://github.com/realtemirov">
+        <img alt="Twitter"
+             src="https://komarev.com/ghpvc/?username=realtemirov&color=orange&label=Profile%20Views"></a>
+    <a href="https://github.com/realtemirov">
+        <img alt="Github"
+             src="https://img.shields.io/github/followers/realtemirov?label=GitHub%20Followers"></a>
+    
+</p>
+
