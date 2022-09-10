@@ -1,6 +1,4 @@
-<a href="https://t.me/Okey_3321"><img src="greeting.jpg" align="right" height="200"/></a>
-
-# Hi there, I'm Nuriddin 👋
+# Hi there, I'm Jakhongir 👋
 
 > .Net enthusiast!
 <br/><br/>
@@ -32,7 +30,7 @@
 [![Jakongir's Streak](https://github-readme-streak-stats.herokuapp.com?user=realtemirov&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFF66&ring=3722DD)](https://git.io/streak-stats)
 
 <p align="center">
-    <a href="https://leetcode.com/realtemirov/"><img width="50%" src="https://leetcode.card.workers.dev/Nuriddin321?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+    <a href="https://leetcode.com/realtemirov/"><img width="50%" src="https://leetcode.card.workers.dev/realtemirov?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
 </p>
   
 [![](https://komarev.com/ghpvc/?username=realtemirov&color=orange&label=Profile%20Views)](https://github.com/realtemirov/realtemirov)
