@@ -46,7 +46,7 @@
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=realtemirov&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=FFFF66&icon_color=007bff&bg_color=171c28" />
 <a />
-</div>
+
  <br/>
 
 [![Jakhongir's Streak](https://github-readme-streak-stats.herokuapp.com?user=realtemirov&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFF66&ring=3722DD)](https://git.io/streak-stats)
@@ -54,6 +54,7 @@
 <p align="center">
     <a href="https://leetcode.com/realtemirov/"><img width="50%" src="https://leetcode.card.workers.dev/realtemirov?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
 </p>
+</div>
 
 ## 💻 Last month's activity
 <!-- https://github.com/realtemirov/github-readme-activity-graph -->
