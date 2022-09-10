@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Jakhongir Temirov 👋</h1>
+<h1 align="center">Hi everyone, I'm Jakhongir Temirov 👋</h1>
 
 ## 🙋‍♂️ Connect with me
 
@@ -6,7 +6,7 @@
 <p align="center">
     <a href="https://twitter.com/realtemirov">
         <img alt="Twitter"
-             src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=github&logoColor=white"></a>
+             src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white"></a>
     <a href="https://github.com/realtemirov">
         <img alt="Github"
              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -15,7 +15,7 @@
              src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://leetcode.com/realtemirov">
         <img alt="Leetcode"
-             src="https://img.shields.io/badge/Leetcode-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+             src="https://img.shields.io/badge/Leetcode-100000?style=for-the-badge&logo=leetcode&logoColor=white"></a>
      <a href="https://www.hackerrank.com/realtemirov">
         <img alt="Hackerrank"
              src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
@@ -54,7 +54,7 @@
 <p align="center">
     <a href="https://leetcode.com/realtemirov/"><img width="50%" src="https://leetcode.card.workers.dev/realtemirov?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
 </p>
-
+</div>
 ## 💻 Last month's activity
 <!-- https://github.com/realtemirov/github-readme-activity-graph -->
 <a href=""><img alt="realtemirov's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=realtemirov&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>  
