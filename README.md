@@ -1,5 +1,27 @@
 <h1 align="center">Hi there, I'm Jakhongir Temirov 👋</h1>
 
+## 🙋‍♂️ Connect with me
+
+<!-- Badges template - https://github.com/realtemirov -->
+<p align="center">
+    <a href="https://github.com/realtemirov">
+        <img alt="Github"
+             src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/realtemirov/">
+        <img alt="Linkedin"
+             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+     <a href="https://www.hackerrank.com/realtemirov">
+        <img alt="Hackerrank"
+             src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+    <a href="https://www.facebook.com/realtemirov">
+        <img alt="Facebook"
+             src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+</p>
+
+
+## 🔨 Languages and Tools:
+
+
 <p align="center">
  <a href="https://linkedin.com/in/realtemirov" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
@@ -21,16 +43,19 @@
 </p>
 
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/chrome/chrome-original.svg" alt="chrome" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="css3" width="40" height="40" />
-  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="chrome" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="ms-sql" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" alt="github" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width=40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="herokuapp" width="40" height="40" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
 </p>
 
 <h1>Me Stats</h1>
